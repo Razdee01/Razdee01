@@ -45,8 +45,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razdee01&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Razdee01&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razdee01&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razdee01&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=razdee01&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Razdee01&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
