@@ -27,10 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/razdee rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razdee rahman" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/walid rahman rajdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid rahman rajdee" height="30" width="40" /></a>
-  <a href="https://fb.com/razdee rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razdee rahman" height="30" width="40" /></a>
-  <a href="https://www.topcoder.com/members/1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1214" height="30" width="40" /></a>
+  <a href="https://github.com/Razdee01" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="your-github-username" height="30" width="40" />
+  </a>
+ <a href="https://twitter.com/RahmanRazdee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razdee" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/walid-rahman-rajdee-029b08264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walid rahman rajdee" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/razdee.rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="razdee rahman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,8 +47,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Razdee01&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Razdee01&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razdee01&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razdee01&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Razdee01&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Razdee01&theme=dark&hide_border=true" alt="GitHub Streak Stats" /></p>
